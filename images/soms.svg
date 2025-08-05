@@ -1,0 +1,28 @@
+<svg width="219.1mm" height="188.49mm" version="1.1" viewBox="0 0 219.1 188.49" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1221-8" x1="58.4" x2="174.23" y1="107.99" y2="132.3" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1177"/>
+  <linearGradient id="linearGradient1177">
+   <stop stop-color="#28b0ea" offset="0"/>
+   <stop stop-color="#28b0ea" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(5.2295 -53.165)">
+  <g transform="translate(-155.73 356.94)">
+   <g transform="translate(-19.661 -362.86)">
+    <text x="223.53925" y="211.78067" fill="#000000" font-family="sans-serif" font-size="42.645px" stroke-width="1.0661" style="line-height:1.25" xml:space="preserve"><tspan x="223.53925" y="211.78067" stroke-width="1.0661">soms</tspan></text>
+    <g transform="translate(-2.3044 9.6524)">
+     <g transform="rotate(-26.259 150.63 -229.94)">
+      <path d="m84.571 92.699c1.8053-1.5733 5.8868-1.9367 7.7485-0.47247 6.098 4.7961 5.8586 3.5885 5.8586 8.3155v68.792c0 2.9316-2.3601 5.2917-5.2917 5.2917h-7.9375c-2.9316 0-5.2917-2.3601-5.2917-5.2917v-68.792c0-4.538-0.37923-3.2302 4.9137-7.843z" fill="#28b0ea" opacity=".98"/>
+      <path d="m60.854 114.15 22.451-20.401c3.1094-2.8255 8.1159-2.8255 11.225-1e-6l22.451 20.401c3.1094 2.8255 3.1094 7.3749 0 10.2-20.126-0.29168-33.355-0.29168-56.127 0-3.1094-2.8255-3.1094-7.3749-1e-6 -10.2z" fill="url(#linearGradient1221-8)"/>
+     </g>
+     <g transform="matrix(-.8968 -.44244 -.44244 .8968 446.75 42.914)">
+      <path d="m84.571 92.699c1.8053-1.5733 5.8868-1.9367 7.7485-0.47247 6.098 4.7961 5.8586 3.5885 5.8586 8.3155v68.792c0 2.9316-2.3601 5.2917-5.2917 5.2917h-7.9375c-2.9316 0-5.2917-2.3601-5.2917-5.2917v-68.792c0-4.538-0.37923-3.2302 4.9137-7.843z" fill="#28b0ea" opacity=".98"/>
+      <path d="m60.854 114.15 22.451-20.401c3.1094-2.8255 8.1159-2.8255 11.225-1e-6l22.451 20.401c3.1094 2.8255 3.1094 7.3749 0 10.2-20.126-0.29168-33.355-0.29168-56.127 0-3.1094-2.8255-3.1094-7.3749-1e-6 -10.2z" fill="url(#linearGradient1221-8)"/>
+     </g>
+    </g>
+   </g>
+   <rect x="183.83" y="-284.58" width="167.91" height="98.4" ry="3.1596" fill="none" opacity=".98"/>
+   <rect x="151.82" y="-302.45" width="216.46" height="185.85" rx="22.957" ry="22.957" fill="none" stroke="#28b0ea" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".98039" stroke-width="2.6458"/>
+  </g>
+ </g>
+</svg>

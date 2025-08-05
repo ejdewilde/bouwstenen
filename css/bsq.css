@@ -1,0 +1,75 @@
+/* HIDE RADIO */
+[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* IMAGE STYLES */
+[type="radio"] + img {
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* CHECKED STYLES */
+[type="radio"]:checked + img {
+  border-radius: 5px;
+  outline: 5px solid rgb(0, 255, 64);
+}
+
+.thlinks {
+  text-align: left;
+  color: #058dc7;
+  left: 10%;
+}
+
+.threchts {
+  text-align: right;
+  color: #058dc7;
+  left: 10%;
+}
+
+.verder_knop {
+  position: relative;
+  left: 0%;
+  background-color: #1a80b6;
+  margin-right: 5px;
+  margin-top: 5px;
+  text-align: left;
+}
+/* The slider itself */
+.slider {
+  -webkit-appearance: none; /* Override default CSS styles */
+  appearance: none;
+  width: 100%; /* Full-width */
+  top: 15px;
+  height: 25px; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: 0.2s; /* 0.2 seconds transition on hover */
+  transition: opacity 0.2s;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #ed561b; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #ed561b; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
